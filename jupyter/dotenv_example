@@ -1,0 +1,3 @@
+# See https://github.com/theskumar/python-dotenv
+
+DATA_DIR="data"

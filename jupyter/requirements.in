@@ -1,0 +1,23 @@
+# This file lists the Python libraries used in the virtual enviroment.
+# See the venv.ps1 and venv.sh scripts in this directory.
+# Chris Joakim
+
+Jinja2
+arrow
+certifi
+dnspython
+docopt
+httpx
+notebook
+langchain
+langchain_community
+matplotlib
+numpy
+openai==1.30.3
+openpyxl
+pandas
+pymongo
+python-dotenv
+rdflib
+tiktoken>=0.4.0
+xmlformatter

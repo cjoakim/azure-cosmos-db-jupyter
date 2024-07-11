@@ -1,3 +1,25 @@
+cj 
+
+**/.idea/
+**/.DS_Store
+**/.env
+**/__pycache__/
+**/bin/
+**/include/
+**/htmlcov/
+**/lib/
+**/lib64/
+**/man/
+**/tmp/
+**/Scripts/
+**/venv/
+
+**/pyvenv.cfg
+
+**/.ipynb_checkpoints/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
